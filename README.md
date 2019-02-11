@@ -27,5 +27,5 @@
 
 未完待续...
 
-<a href="./another-page.html">Link to another page</a>
+<a href="./page1.html">Link to another page</a>
     
